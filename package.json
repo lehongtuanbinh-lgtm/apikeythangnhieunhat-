@@ -1,0 +1,8 @@
+{
+  "name":"muahatokyky-quantum-v9-safe",
+  "version":"9.1.0",
+  "main":"lc.js",
+  "scripts":{"start":"node lc.js","dev":"node --watch lc.js"},
+  "dependencies":{"express":"^4.21.1","axios":"^1.7.9"},
+  "engines":{"node":">=16"}
+}
